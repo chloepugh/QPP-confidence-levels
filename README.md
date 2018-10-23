@@ -1,6 +1,6 @@
 # QPP-confidence-levels
 find_cl.py and find_cl_rebin.py calculate confidence levels for power spectra with a power-law dependence. They can be used 
-to test the significance of quasi-periodic pulsation (QPP) signatures in flare time series data.
+to test the significance of quasi-periodic pulsation (QPP) signatures in solar and stellar flare time series data.
 
 The time series data used to calculate the power spectrum should be evenly time-spaced. Fourier power spectra or periodograms calculated at the Fourier frequencies may be used with these codes.
 
